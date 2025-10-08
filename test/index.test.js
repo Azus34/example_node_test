@@ -1,5 +1,5 @@
 const hash = require('./testindex');
-
+//dd
 test('Verficar Hash', () => {
     const message = 'contraseña';
     const hashtest = hash(message);
